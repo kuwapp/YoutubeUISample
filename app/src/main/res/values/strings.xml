@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">YoutubeUISample</string>
+
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+
+    <string name="title">Title</string>
+    <string name="body">BODYBODYBODYBODYBODYBODYBODYBODY\nBODYBODYBODYBODYBODYBODYBODYBODY\nBODYBODYBODYBODYBODYBODYBODYBODY\nBODYBODYBODYBODYBODYBODYBODYBODY\n</string>
+</resources>
